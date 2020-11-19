@@ -187,7 +187,7 @@ Please feel free to send me pull requests or email (clp.xidian@gmail.com) to upd
 * Deepfake Video Detection Using Recurrent Neural Networks (*2018 AVSS*) [[Paper](https://gangw.cs.illinois.edu/class/cs598/papers/AVSS18-deepfake.pdf)]
 * Exposing deep fakes using inconsistent head poses (*2019 ICASSP*) [[Paper](https://arxiv.org/pdf/1811.00661.pdf)]
 * Protecting world leaders against deep fakes (*2019 CVPRW*) [[Paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Agarwal_Protecting_World_Leaders_Against_Deep_Fakes_CVPRW_2019_paper.pdf)]
-* FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals (*2019 arXiv*) [[Paper](https://arxiv.org/pdf/1901.02212.pdf)]
+* FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals (*2020 TPAMI*) [[Paper](https://arxiv.org/pdf/1901.02212.pdf)]
 * Recurrent Convolutional Strategies for Face Manipulation Detection in Videos (*2019 CVPRW*) [[Paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Sabir_Recurrent_Convolutional_Strategies_for_Face_Manipulation_Detection_in_Videos_CVPRW_2019_paper.pdf)]
 * Predicting Heart Rate Variations of Deepfake Videos using Neural ODE (*2019 ICCVW*) [[Paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVPM/Fernandes_Predicting_Heart_Rate_Variations_of_Deepfake_Videos_using_Neural_ODE_ICCVW_2019_paper.pdf)]
 * Deepfake Video Detection through Optical Flow based CNN (*2019 ICCVW*) [[Paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Amerini_Deepfake_Video_Detection_through_Optical_Flow_Based_CNN_ICCVW_2019_paper.pdf)]
@@ -208,6 +208,7 @@ via Face Geometry Consistency (*2020 CVPRW*) [[Paper](https://openaccess.thecvf.
 * How Do the Hearts of Deep Fakes Beat? Deep Fake Source Detection via Interpreting Residuals with Biological Signals (*202008 arXiv*) [[Paper](https://arxiv.org/pdf/2008.11363.pdf)]
 * A Convolutional LSTM based Residual Network for Deepfake Video Detection (*202009 arXiv*) [[Paper](https://arxiv.org/pdf/2009.07480.pdf)]
 * DeepFakesON-Phys: DeepFakes Detection based on Heart Rate Estimation (*202010 arXiv*) [[Paper](https://arxiv.org/pdf/2010.00400.pdf)] [CodePromised]
+* Recurrent Convolutional Structures for Audio Spoof and Video Deepfake Detection (*2020 IEEE JSTSP*) [[Paper](https://ieeexplore.ieee.org/abstract/document/9105097/)]
 
 ### Generalizable Forgery Detection
 * ForensicTransfer: Weakly-supervised domain adaptation for forgery detection (*2018 arXiv*) [[Paper](https://arxiv.org/pdf/1812.02510.pdf)]
@@ -219,7 +220,7 @@ via Face Geometry Consistency (*2020 CVPRW*) [[Paper](https://openaccess.thecvf.
 * OC-FakeDect: Classifying Deepfakes Using One-class Variational Autoencoder (*2020 CVPRW*) [[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf)]
 * T-GD: Transferable GAN-generated Images Detection Framework (*2020 ICML*) [[Paper](https://proceedings.icml.cc/static/paper_files/icml/2020/3622-Paper.pdf)] [[Code](https://github.com/cutz-j/T-GD)]
 * Exposing Deep-faked Videos by Anomalous Co-motion Pattern Detection (*202008 arXiv*) [[Paper](https://arxiv.org/pdf/2008.04848.pdf)]
-* Spatio-temporal Features for Generalized Detection of Deepfake Videos (*202010 arXiv*) [[Paper](https://arxiv.org/pdf/2010.11844.pdf)]
+* Spatio-temporal Features for Generalized Detection of Deepfake Videos (*2020 CVIU*) [[Paper](https://arxiv.org/pdf/2010.11844.pdf)]
 * Mining Generalized Features for Detecting AI-Manipulated Fake Faces (*202010 arXiv*) [[Paper](https://arxiv.org/pdf/2010.14129.pdf)]
 
 
