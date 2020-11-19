@@ -254,7 +254,7 @@ via Face Geometry Consistency (*2020 CVPRW*) [[Paper](https://openaccess.thecvf.
 * [*DFFD (Diverse Fake Face Dataset)*] On the detection of digital face manipulation (*2019 arXiv*) [[Paper](https://arxiv.org/pdf/1910.01717.pdf)]
 * [*DFDC (Deepfake Detection Challenge)*] The Deepfake Detection Challenge (DFDC) Preview Dataset (*2019 arXiv*) [[Paper](https://arxiv.org/pdf/1910.08854.pdf)] [[Download](https://deepfakedetectionchallenge.ai/)]
 * [*DeeperForensics-1.0*] DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection (*2020 arXiv*) [[Paper](https://arxiv.org/pdf/2001.03024.pdf)] [[Download](https://github.com/EndlessSora/DeeperForensics-1.0)]
-* [*WildDeepfake*] WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection (*2020 ACM MM*) [[[Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413769)][Download](https://github.com/deepfakeinthewild/deepfake-in-the-wild#download)]
+* [*WildDeepfake*] WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection (*2020 ACM MM*) [[Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413769)][[Download](https://github.com/deepfakeinthewild/deepfake-in-the-wild#download)]
 
 
 ## Survey
