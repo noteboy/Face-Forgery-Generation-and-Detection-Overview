@@ -3,10 +3,7 @@
 A curated list of articles and codes related to face forgery generation and detection. 
 This project is based on [clpeng/Awesome-Face-Forgery-Generation-and-Detection](https://github.com/clpeng/Awesome-Face-Forgery-Generation-and-Detection)
 
-## Contributing
-***
-
-Please feel free to send me pull requests or email (clp.xidian@gmail.com) to update this list together!
+The articles in this list are not all, please remind me to add.
 
 
 ## Table of Contents
