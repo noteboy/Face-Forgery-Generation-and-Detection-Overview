@@ -1,4 +1,4 @@
-# Face-Forgery-Generation-and-Detection-Ovewview-
+# Face-Forgery-Generation-and-Detection-Ovewview
 
 A curated list of articles and codes related to face forgery generation and detection. 
 This project is based on [clpeng/Awesome-Face-Forgery-Generation-and-Detection](https://github.com/clpeng/Awesome-Face-Forgery-Generation-and-Detection)
